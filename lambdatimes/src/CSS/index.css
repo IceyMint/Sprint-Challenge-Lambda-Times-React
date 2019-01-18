@@ -182,7 +182,8 @@ body {
 }
 .tabs .topics {
   display: flex;
-  justify-content: none;
+  width: 90%;
+  justify-content: space-between;
   align-items: center;
   flex-direction: row;
 }

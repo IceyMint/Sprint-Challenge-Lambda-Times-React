@@ -52,12 +52,12 @@ const DivContainerRight = Styled.div`
   font-size: 11px;
   font-weight: bold;
 `
-const SpanContainerLeft = styled.span`
+const SpanContainerLeft = Styled.span`
   cursor: pointer;
   margin-right: 25%;
   font-weight: bold;`
 
-const SpanContainerCenter = styled.span`
+const SpanContainerCenter = Styled.span`
   cursor: pointer;
   margin-right: 5%;
   &:hover {
@@ -68,7 +68,7 @@ const SpanContainerCenter = styled.span`
   }
 `
 
-const SpanContainerRight = styled.span`
+const SpanContainerRight = Styled.span`
   cursor: pointer;
 `
 
